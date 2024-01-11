@@ -1,20 +1,14 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: 你好，兵戈
+description: 欢迎来到兵戈的主站
+slug: hello-bingo
+date: 2024-01-01 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - bingo
 tags:
-    - Example Tag
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - 
+weight: 1
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
-
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+欢迎来到兵戈的主站，我会慢慢完善这里
