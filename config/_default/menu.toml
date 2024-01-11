@@ -16,10 +16,10 @@ url = "https://github.com/bingohuang"
 [social.params]
 icon = "brand-github"
 
-#[[social]]
-#identifier = "twitter"
-#name = "Twitter"
-#url = "https://twitter.com"
+[[social]]
+identifier = "talks"
+name = "Talks"
+url = "http://talks.hibingo.cn/"
 
-#[social.params]
-#icon = "brand-twitter"
+[social.params]
+icon = "smile"
